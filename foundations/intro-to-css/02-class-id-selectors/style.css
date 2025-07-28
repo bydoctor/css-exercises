@@ -1,0 +1,19 @@
+p:nth-child(odd){
+
+    background-color: #e9164488;
+}
+
+.big-font{
+font-size: 24px;
+}
+
+#second{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#fourth{
+    background-color: #0ff20f97;
+    font-weight: bold;
+    font-size: 24px;
+}
