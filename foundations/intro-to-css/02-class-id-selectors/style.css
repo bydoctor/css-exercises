@@ -1,6 +1,7 @@
 p:nth-child(odd){
 
     background-color: #e9164488;
+    font-family:Helvetica,'Times New Roman', Times,sans-serif;
 }
 
 .big-font{
